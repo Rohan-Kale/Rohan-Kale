@@ -50,7 +50,3 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 - 🥾 Hiking
 - 🏀 Basketball
 - 🎮 Gaming
-
----
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-Kale&show_icons=true&hide_title=true&count_private=true&theme=radical)
