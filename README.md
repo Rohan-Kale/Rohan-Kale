@@ -20,13 +20,13 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 ---
 
 #### 🌟 Currently Building...
-2D Physics Enginer in C++ w/ OpenGL, check back for updates!
+*2D Physics Enginer in C++ w/ OpenGL, check back for updates!*
 
 ---
 
 #### 🌟 Favorite Project
 [ApplyNOW](https://github.com/Rohan-Kale/ApplyNOW)  
-*Empowering users to streamline job applications with smart automation.*
+*Empowering users to streamline job applications with artificial intelligence.*
 
 ---
 
