@@ -20,8 +20,7 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 ---
 
 #### 🌟 Currently Building...
-[ShortURL](https://github.com/Rohan-Kale/url-shortener)  
-*A URL shortener built with FastAPI, Express.js, Redis, Docker, and PostgreSQL, designed for efficient, scalable link management.*
+2D Physics Enginer in C++ w/ OpenGL, check back for updates!
 
 ---
 
