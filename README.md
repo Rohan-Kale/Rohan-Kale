@@ -38,7 +38,7 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 
 #### 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rohankale42)
-- [Gmail] (kalerohan42@gmail.com)
+- [Gmail](kalerohan42@gmail.com)
 
 ---
 
