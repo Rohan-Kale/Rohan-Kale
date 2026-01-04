@@ -7,8 +7,6 @@
 #### 🚀 About Me
 I'm a passionate student with a knack for building impactful solutions. Whether it's crafting sleek web interfaces or architecting robust backend services, I'm always exploring how technology can make a difference.
 
-- **Trying to make an impact**
-
 ---
 
 #### 🏆 Top Skills
