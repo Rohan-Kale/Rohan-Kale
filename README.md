@@ -20,7 +20,7 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 ---
 
 #### 🌟 Currently Building...
-*2D Physics Enginer in C++ w/ OpenGL, check back for updates!*
+*2D Physics Engine in C++ w/ OpenGL, check back for updates!*
 
 ---
 
