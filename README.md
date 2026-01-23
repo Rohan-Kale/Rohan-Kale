@@ -18,7 +18,7 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 ---
 
 #### 🌟 Currently Building...
-*2D Physics Engine in C++ w/ OpenGL, check back for updates!*
+*Black–Scholes Option Pricing & Risk Analysis Engine in Python*
 
 ---
 
