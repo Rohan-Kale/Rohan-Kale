@@ -18,7 +18,7 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 ---
 
 #### 🌟 Currently Building...
-*Black–Scholes Option Pricing & Risk Analysis Engine in Python*
+*Space Simulator in Rust*
 
 ---
 
