@@ -22,12 +22,6 @@ I'm a passionate student with a knack for building impactful solutions. Whether 
 
 ---
 
-#### 🌟 Favorite Project
-[ApplyNOW](https://github.com/Rohan-Kale/ApplyNOW)  
-*Empowering users to streamline job applications with artificial intelligence.*
-
----
-
 #### 📂 Other Cool Projects
 - [Gmail-MCP-Server](https://github.com/Rohan-Kale/Gmail-MCP-Server)
 - [Business-Intelligence-Agent](https://github.com/Rohan-Kale/Business-Intelligence-Agent)
