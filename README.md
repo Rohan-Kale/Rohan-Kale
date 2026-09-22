@@ -2,4 +2,4 @@
 
 Computer science student at Penn State, building backend systems, privacy tools, and graphics software, mainly with Go, Python, and Rust.
 
-[Website](https://rohan-kale.github.io/) · [Resume](https://rohan-kale.github.io/files/Rohan_Resume.pdf) · [LinkedIn](https://linkedin.com/in/rohankale42) · [Email](mailto:kalerohan42@gmail.com)
+[website](https://rohan-kale.github.io/) · [resume](https://rohan-kale.github.io/files/Rohan_Resume.pdf) · [linkedin](https://linkedin.com/in/rohankale42) · [email](mailto:kalerohan42@gmail.com)
