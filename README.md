@@ -12,4 +12,4 @@ Interested in distributed systems, computer graphics, and running AI locally.
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/rohankale42) · [Email](mailto:kalerohan42@gmail.com)
+[Website](https://rohan-kale.github.io/) · [Resume](https://rohan-kale.github.io/files/Rohan_Resume.pdf) · [LinkedIn](https://linkedin.com/in/rohankale42) · [Email](mailto:kalerohan42@gmail.com)
